@@ -82,7 +82,7 @@
                     Laravel
                 </div>
 
-                <div class="tiktok m-b-md">
+                <div class="title m-b-md">
                     {{ date("d/m/Y H:i:s") }}
                 </div>
                 
